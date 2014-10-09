@@ -1,0 +1,17 @@
+{
+    "author": "Jeswin Kumar <jeswinpk@agilehead.com>",
+    "name": "fora-validator",
+    "version": "0.1.0",
+    "description": "Validation Library for the Fora Project.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jeswin/fora-validator.git"
+    },
+    "dependencies": {
+        "fora-data-utils": "*"
+    },
+    "main": "lib/fora-validator",
+    "engines": { "node": ">= 0.11.9" },
+    "keywords": ["fora", "data types"],
+    "license" : "GPL-3.0+"
+}
